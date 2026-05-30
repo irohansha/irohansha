@@ -1,5 +1,4 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f97316,50:ec4899,100:8b5cf6&height=200&text=Rohan%20Sha%20Shaik&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Full%20Stack%20Web%20Developer&descSize=18&descAlignY=68&descColor=fef3c7" />
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=I+don't+just+write+code+—+I+ship+products.;React+%7C+Next.js+%7C+Node.js+%7C+Full+Stack;Turning+ideas+into+deployable+reality+🚀;AI-powered+development+done+right+⚡;Open+to+Work+%7C+Let's+build+something+great" alt="Typing SVG" />
 </div>
