@@ -1,4 +1,5 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:0d1117,50:1a1b27,100:414868&height=200&section=header&text=Rohan%20Sha%20Shaik&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=Full%20Stack%20Web%20Developer&descAlignY=75&descSize=20&descColor=7aa2f7" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&color=0:7aa2f7,100:b4f9f8&height=120&section=header&text=Rohan%20Sha%20Shaik&fontSize=55&fontAlignY=50&animation=fadeIn" />
+
 
 
 
