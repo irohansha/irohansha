@@ -1,7 +1,6 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" alt="wave" />
-  <h1>Rohan Sha Shaik</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=egg&color=0:7aa2f7,50:c084fc,100:f472b6&height=280&text=Rohan%20Sha%20Shaik&fontSize=55&fontColor=ffffff&fontAlignY=45&animation=scaleIn&desc=Full%20Stack%20Web%20Developer&descSize=18&descAlignY=65&descColor=ffffff" />
 
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=I+don't+just+write+code+—+I+ship+products.;React+%7C+Next.js+%7C+Node.js+%7C+Full+Stack;Turning+ideas+into+deployable+reality+🚀;AI-powered+development+done+right+⚡;Open+to+Work+%7C+Let's+build+something+great" alt="Typing SVG" />
 </div>
 
