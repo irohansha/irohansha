@@ -15,16 +15,16 @@
 
 <h2>⚡ Who Am I</h2>
 
-> **Rohan Sha Shaik — Full‑Stack Web Developer**
->
-> • **🚀 1+ year of end‑to‑end product delivery**: built SaaS tools, payment integrations (Razorpay), AI‑assisted dev workflows, and shipped them to real users.
-> • **🛠️ Tech Stack mastery**: React, Next.js, Node.js, Express, MongoDB, Firebase, Tailwind, TypeScript, Docker.
-> • **📈 Measurable impact**: boosted user retention by 30 % on a recent project, reduced API latency by 45 %, and grew open‑source contributions to 5 k stars.
-> • **🤝 Collaborative mindset**: actively contribute to open‑source, mentor junior devs, and thrive in cross‑functional teams.
-> • **🌍 Open to Opportunities**: eager to join innovative teams where I can ship high‑impact products.
->
-> **👋 Let’s build something great together!**
->
+> **Hi, I'm Rohan Bangaram**
+> Full‑Stack Developer with 1 year of hands‑on experience building modern web applications, SaaS products, and scalable solutions.
+> 
+> **Tech Stack:** React • Next.js • Node.js • Express.js • MongoDB • Firebase • TypeScript • Tailwind CSS • Docker
+> 
+> Passionate about creating impactful products, solving real‑world problems, and continuously learning new technologies.
+> 
+> **Open to Opportunities:** Full‑Stack Developer, Frontend Developer, Backend Developer, Software Engineer.
+> 
+> 📫 <a href="mailto:irohansha@gmail.com">irohansha@gmail.com</a>
 <a href="https://example.com/rohan_sha_shai_resume.pdf"><img src="https://img.shields.io/badge/Resume-Download%20PDF-2EA44F?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Resume" /></a>
 
 ## 📄 Résumé
@@ -107,7 +107,9 @@ Feel free to download & reach out for a chat!
 
 ---
 
-## 📊 GitHub Stats
+## 📊 My GitHub Impact (Hire‑Me Stats)
+
+> **Consistent contributions, high‑impact projects, and open‑source leadership** – a quick snapshot for recruiters.
 
 <div align="center">
 <table>
@@ -123,11 +125,16 @@ Feel free to download & reach out for a chat!
 </td>
 </tr>
 </table>
+<div align="center">
+  <p><strong>🚀 Highlight for Recruiters:</strong> Consistent contributions, high‑impact projects, and open‑source leadership. This visual snapshot showcases my coding activity and reliability.</p>
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## 📈 Contribution Activity (Hiring Signal)
+
+> Demonstrates consistent coding habits and recent project involvement – a strong indicator of reliability for potential employers.
+---
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=irohansha&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7aa2f7&line=7aa2f7&point=c0caf5" />
