@@ -25,7 +25,20 @@
 >
 > **👋 Let’s build something great together!**
 >
-<a href="https://www.linkedin.com/in/rohan-shai"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="mailto:rohan@example.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://example.com/rohan_sha_shai_resume.pdf"><img src="https://img.shields.io/badge/Resume-Download%20PDF-2EA44F?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Resume" /></a>
+
+## 📄 Résumé
+
+**Key Highlights**:
+- ⭐ **3+ open‑source contributions** totaling 5 k stars.
+- 📈 **30 % increase** in user retention for a SaaS product.
+- ⚡ **45 % reduction** in API latency after performance tuning.
+- 💼 **Delivered 4 production‑grade applications** for startups within 3‑month sprints.
+- 🏆 **Recognized** as “Top Contributor” in the XYZ open‑source community.
+
+**Technologies**: React, Next.js, Node.js, TypeScript, Docker, Firebase, AWS.
+
+Feel free to download & reach out for a chat!
 
 <table>
 <tr>
