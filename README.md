@@ -16,7 +16,7 @@
 <h2>⚡ Who Am I</h2>
 
 > **Hi, I'm Rohan Sha Shaik**
-> Full‑Stack Developer with 1 year of hands‑on experience building modern web applications, SaaS products, and scalable solutions.
+> Full‑Stack Developer with 1 year of hands‑on experience (6 months internship + 6 months professional experience) building modern web applications, SaaS products, and scalable solutions.
 > 
 > **Tech Stack:** React • Next.js • Node.js • Express.js • MongoDB • Firebase • TypeScript • Tailwind CSS • Docker
 > 
