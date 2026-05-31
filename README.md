@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f97316,50:ec4899,100:8b5cf6&height=200&text=Rohan%20Sha%20Shaik&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Full%20Stack%20Web%20Developer&descSize=18&descAlignY=68&descColor=fef3c7" />
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1500&color=f59e0b&center=true&vCenter=true&width=700&lines=%F0%9F%9A%80%20Full-%E2%80%93Stack%20Dev;%E2%9A%A1%20React%20%7C%20Next.js%20%7C%20Node.js;%E2%9C%A8%20Open-Source%20Contributor;%F0%9F%93%88%20GitHub%20Stats;%F0%9F%A4%9A%20Let's%20Collaborate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1500&color=f59e0b&center=true&vCenter=true&width=700&lines=%F0%9F%9A%80%20Full-%E2%80%93Stack%20Dev;%E2%9A%A1%20React%20%7C%20Next.js%20%7C%20Node.js;%E2%9C%A8%20Open%20Source%20Contributor;%F0%9F%93%88%20GitHub%20Stats;%F0%9F%A4%9A%20Open%20to%20Work%20%7C%20Hire%20Me" alt="Typing SVG" />
 </div>
 
 <div align="center">
